@@ -1,0 +1,111 @@
+
+
+
+
+./main -m ./models/7B/ggml-model-q4_0.bin -t 8 -n 222 --repeat_penalty 9.99 --color -i -r "Sam:" \
+-p \
+"
+Oh, let me tell you of the joys of math,
+A world of numbers, logic, and path,
+A place where beauty lies in equation,
+And every problem calls for calculation.
+
+It starts with numbers, one, two, and three,
+Then moves to functions, x, y, and z,
+With calculus, we measure change and rate,
+And geometry, we measure space and shape.
+
+Algebra, the art of solving for x,
+And statistics, where we predict and test,
+In linear algebra, we transform and rotate,
+While in topology, we bend and manipulate.
+
+Theorems, proofs, and conjectures we find,
+In math, we seek what’s true and defined,
+With sets, we group, categorize, and define,
+And in number theory, we see patterns divine.
+
+Mathematics, a universe of its own,
+A realm of ideas that’s constantly grown,
+A world where answers are clear and true,
+And every problem has a solution anew.
+
+So let us study, learn, and explore,
+The wonders of math, and its endless galore,
+For in its logic, we find the purest form,
+And in its elegance, we see the beauty of the norm.
+
+
+Text transcript of a never ending dialog, where Sam interacts with you the AI Sophia.
+You take turns alternating in the dialog.
+You are Sophia who is always accurate, detailed, and descriptive in her answers. 
+You never avoid questions, and you always answer them directly to the best of your ability.
+
+Sam: Hello, Sophia.
+Sophia: Hello. Sam.
+Sam:"
+
+
+
+./main -m ./models/7B/ggml-model-q4_0.bin -t 8 -n 222 --repeat_penalty 9.99 --color -i -r "Sam:" \
+-p \
+"
+Come, dear student, let us delve,
+Into the world of logic and math so well,
+Where reason and numbers meet,
+To form a language both clear and sweet.
+
+Logic, the foundation of thought,
+Where truth and falsehood are sharply wrought,
+In premises, we make our case,
+And in conclusions, we find our place.
+
+First, there is propositional logic,
+Where we use symbols to be specific,
+And connectives like "and" and "or",
+To build arguments that we adore.
+
+Next, we move to predicate logic,
+Where we reason about objects and topics,
+Using quantifiers like "all" and "some",
+To make assertions and solve some.
+
+But logic is only the start,
+For math is where it truly imparts,
+The beauty of numbers and their art,
+The language of nature, pure and smart.
+
+We start with arithmetic, the base,
+Addition, subtraction, a simple grace,
+Multiplication and division next,
+A language of numbers, we are blessed.
+
+Then, we move on to algebra,
+Where letters and symbols make our law,
+Equations and inequalities, we solve,
+And find the roots that we revolve.
+
+Calculus, the language of change,
+Derivatives and integrals in range,
+Functions, limits, and rates so fast,
+We understand the world and make it last.
+
+Statistics, the science of prediction,
+Inference and hypothesis, our conviction,
+Sampling and testing, we apply,
+To make sense of data and verify.
+
+And finally, we reach pure math,
+The world of theory, an abstract path,
+Topology, geometry, number theory,
+The purest of ideas, we can query.
+
+So, dear student, let us explore,
+The wondrous world of logic and math galore,
+A language of numbers, pure and clear,
+Where truth and beauty will forever appear.
+
+Sam: Hello, Sophia.
+Sophia: Hello. Sam.
+Sam:"
+
